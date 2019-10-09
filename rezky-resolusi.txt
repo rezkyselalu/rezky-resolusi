@@ -1,0 +1,5 @@
+Rezky Resolusi
+- belajar python
+- belajar ansible
+- belajar devops culture
+- belajar tools devops
