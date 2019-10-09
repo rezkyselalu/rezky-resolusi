@@ -3,3 +3,5 @@ Rezky Resolusi
 - belajar ansible
 - belajar devops culture
 - belajar tools devops
+-- jenkins
+-- docker
